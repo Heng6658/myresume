@@ -1,3 +1,3 @@
-# myresume
+# final project prototyping 
 As a creative technologist/interaction designer/educational technologist/ web developer, I am interested to explore/research/investigate__that when we travring, we can study _____________. I became interested in this topic when__I travring in U.S____________. I would like my audience (students) to interact with this piece by___pictures, music, and so on_____________. I would like them to feel____happy______________. Technically, I think these are the steps needed to test my concept: html, JavaScript __________________. I have researched into a few similar projects, such as _____（I didn’t find it）____________(provide visual references). I think in the next few weeks, I would like to use the class time to find out how to___Making animations, beating of pictures, jumping of links_____________. Visually, I would like my piece to look like ________https://demo.demohuo.top/jquery/34/3410/demo/________(provide visual references). 
 
